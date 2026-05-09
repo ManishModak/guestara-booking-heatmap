@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+# Local assignment/reference material, not part of the public submission.
+Guestara Frontend Assignment.pdf
+implemenationplan.md
+implementationplan.md
+*.pdf
+
+# Local agent/tooling metadata.
+.agents/
+.codex/
+
+# OS/editor noise.
+.DS_Store
+*.log
